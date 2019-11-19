@@ -2,7 +2,7 @@
 
 ## A Monte Carlo simulation of a stellar cluster based on the mass distribution at birth, called the Initial Mass Function (IMF)
 
-<div style="text-align: justify">
+<p style="text-align: justify">
   Stars never form alone, but in clusters with tens to millions of members. A star formation
   event produces a population of stars which all have the same birth-time and age, but a range
   of different masses.
@@ -27,4 +27,4 @@
   axes. The noise <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\Delta&space;N" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;\Delta&space;N" title="\Delta N" /></a> on a histogram bin with N stars in it is <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\sqrt&space;N" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;\sqrt&space;N" title="\sqrt N" /></a>. 
   These results will be later used to extract only certain stars from the cluster that satisfy specific 
   distance requirements, and to fit the slope of the mass function using the `numpy polyfit` function.
-</div>
+</p>
