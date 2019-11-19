@@ -1,0 +1,159 @@
+[1]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.95855515  0.13879955  0.17155409 ...,  0.2040495   0.52447756
+  0.18414661]
+ 
+-1.315 x + 1.775
+
+ slope of the histogram for 10000.0 stars= -1.31467531789
+
+ IMF slope for stars more massive than 7 MSun: -2.35
+Age of the cluster in years=5000000
+
+ IMF slope for 5000000.0 years old clusters: -2.35
+
+[2]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.21576979  0.31226182  0.13143    ...,  0.1218556   0.15617577
+  0.26565508]
+ 
+-1.217 x + 1.785
+
+ slope of the histogram for 10000.0 stars= -1.21686306009
+
+ IMF slope for stars more massive than 7 MSun: -2.35
+Age of the cluster in years=5000000
+
+ IMF slope for 5000000.0 years old clusters: -2.35
+
+[3]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.10151853  0.12366147  0.75728417 ...,  0.18174763  0.12315521
+  0.15464511]
+ 
+-1.278 x + 1.785
+
+ slope of the histogram for 10000.0 stars= -1.27753151827
+
+ IMF slope for stars more massive than 7 MSun: -2.35
+Age of the cluster in years=5000000
+
+ IMF slope for 5000000.0 years old clusters: -2.35
+
+[4]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.1295806   0.25392898  0.1037622  ...,  0.63713836  0.22729407
+  0.25777024]
+ 
+-1.297 x + 1.779
+
+ slope of the histogram for 10000.0 stars= -1.29726958269
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=5000000
+
+ IMF slope for 5000000.0 years old clusters: -2.350000
+
+[5]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.16752278  0.17893249  0.15811241 ...,  0.1137278   0.14976986
+  0.2593609 ]
+ 
+-1.252 x + 1.795
+
+ slope of the histogram for 10000.0 stars= -1.25154769705
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=5000000
+
+ IMF slope for 5000000.0 years old clusters: -2.350000
+
+[6]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.10671744  0.11307167  0.10668741 ...,  0.22164586  0.28088914
+  0.11360254]
+ 
+-1.257 x + 1.782
+
+ slope of the histogram for 10000.0 stars= -1.25701976839
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=10000000
+
+ IMF slope for 10000000.0 years old clusters: -2.350000
+
+[7]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [  1.69536104   0.10100776   0.25045709 ...,  63.32723309   0.27797378
+   1.09092553]
+ 
+-1.32 x + 1.77
+
+ slope of the histogram for 10000.0 stars= -1.31995812128
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=10000000
+
+ IMF slope for 10000000.0 years old clusters: -2.350000
+
+[8]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.13758009  0.41907063  0.12248863 ...,  0.13775711  0.31471822
+  0.18199541]
+ 
+-1.274 x + 1.783
+
+ slope of the histogram for 10000.0 stars= -1.27351296311
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=10000000
+
+ IMF slope for 10000000.0 years old clusters: -2.350000
+
+[9]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.27741868  0.6182563   0.12870804 ...,  0.18900545  0.39674228
+  0.16093806]
+ 
+-1.271 x + 1.798
+
+ slope of the histogram for 10000.0 stars= -1.2705591644
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=10000000
+
+ IMF slope for 10000000.0 years old clusters: -2.350000
+
+[10]:
+Number of stars= 10000
+Generating stellar cluster...
+
+ cluster= [ 0.11509677  0.11420432  0.17520388 ...,  0.92895962  0.13394191
+  0.35983168]
+ 
+-1.269 x + 1.793
+
+ slope of the histogram for 10000.0 stars= -1.26911414789
+
+ IMF slope for stars more massive than 7 MSun: -2.350000
+Age of the cluster in years=10000000
+
+ IMF slope for 10000000.0 years old clusters: -2.350000
